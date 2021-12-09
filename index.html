@@ -607,5 +607,12 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
                 }
             },false);
         </script>
+                   <!--CON ESTE CÓDIGO DE ACTIVA EL POPOVER SOBRE SU NOMBRE-->
+        <script>
+            var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
+            var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+                return new bootstrap.Popover(popoverTriggerEl, { html: true });
+            });
+        </script>
     </body>
 </html>
