@@ -429,7 +429,7 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
                         </div>
                       </div>
                     </div>
-                      <!--Aquí termina la ifografía-->
+                      <!--Aquí termina la infografía-->
             <p>Hay distintas formas de resolver, con JavaScript, una <a href="https://bashooka.com/coding/image-comparison-slider-javascript-libraries/" target
               ="_blank">yuxtaposición imágenes</a>. En este caso ocupamos <a href="https://image-compare-viewer.netlify.app/" target="_blank">Imagen Comparte Viewer</a>,
               que ofrece su código de programación como una biblioteca de JavaScript complementada con un código de descripción de estilo (CSS). </p>
@@ -528,15 +528,7 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
             </section>
         </main>
         <!--ESTE ES EL PIE DE PÁGINA-->
-        <footer class="bg-dark text-white-50">
-            <div class="container">
-                <div class="row">
-                    <div class="col py-5">
-                        <p class="text-center small">Lo dejaremos hasta aquí, por ahora</p>
-                    </div>
-                </div>
-            </div>
-        </footer>
+       
         <!--EN EL SCRIPT QUE SIGUE AJUSTA EL SVG DEL ESTADO DE CONSERVACIÓN AL ANCHO DE LA VENTANA-->
         <script>
             window.addEventListener("DOMContentLoaded", elAjuste);
@@ -600,16 +592,7 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
             };
             const viewer = new ImageCompare(element, options).mount();
         </script>
-        <!--PARA QUE HOMERO CORRA UNA VEZ LLEGUEMOS AL FINAL-->
-        <script>
-            var f = document.querySelector("#final").offsetTop;
-            addEventListener("scroll",function () {
-                if (f > window.scrollY) {
-                    document.querySelector("#final").querySelectorAll("img")[0].setAttribute("id", "veloz");
-                    document.querySelector("#final").querySelectorAll("img")[1].setAttribute("id", "lento");
-                }
-            },false);
-        </script>
+      
                    <!--CON ESTE CÓDIGO DE ACTIVA EL POPOVER SOBRE SU NOMBRE-->
         <script>
             var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
