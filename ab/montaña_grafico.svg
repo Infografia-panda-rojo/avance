@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 214.1 196.9" style="enable-background:new 0 0 214.1 196.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#1E1E1C;}
+	.st2{font-family:'roboto';}
+	.st3{font-size:7.5px;}
+	.st4{fill:#FDF2EA;}
+	.st5{fill:#FAD8BF;}
+	.st6{clip-path:url(#SVGID_2_);}
+	.st7{fill:none;stroke:#1D1E1C;stroke-width:0.2174;stroke-miterlimit:10;}
+	.st8{fill:#1D1D1B;}
+	.st9{fill:none;stroke:#1D1E1C;stroke-width:0.1995;stroke-miterlimit:10;stroke-dasharray:0.5495,0.5495;}
+	.st10{fill:#FFFFFF;}
+	.st11{font-family:'roboto';}
+	.st12{font-family:'roboto';}
+	.st13{font-size:8.5px;}
+</style>
+<g id="Capa_3">
+	<g>
+		<rect x="89.2" y="183.5" class="st0" width="35.9" height="9.3"/>
+		<text transform="matrix(1 0 0 1 97.1798 188.7621)"><tspan x="0" y="0" class="st1 st2 st3">Hábitat</tspan><tspan x="17.7" y="0" class="st1 st2 st3"></tspan></text>
+	</g>
+</g>
+<g id="grafico">
+	<g>
+		<path class="st4" d="M27.8,177.6l11-33.7l8.4-23l9.9-10.6L67,96.3V83.7l9.5-15.4l7.2-10.2L89,45.8l7.1-9.4
+			c0.4-0.5,1.1-0.4,1.3,0.1l9,18.8l6.8,7.3l6.4,16.8l2.5,10.8l7.3-6.4c0.7-0.6,1.9-0.3,2.1,0.6l6.5,22l3,13.8l16.2,6.7l16.8,35.6
+			l6,10.6v4.3"/>
+		<path class="st5" d="M193,177.6l-10.5-18.6c-0.1-0.2-0.2-0.3-0.3-0.5L175,152c-0.2-0.2-0.3-0.5-0.3-0.8v-11.6
+			c0-0.2-0.1-0.4-0.2-0.6l-15.9-20.6c-0.1-0.1-0.1-0.2-0.2-0.3l-8-21.8c0-0.1-0.1-0.2-0.1-0.3l-4.1-5.6c-0.2-0.3-0.5-0.4-0.8-0.4
+			h-1.2c-0.3,0-0.7,0.2-0.9,0.5l-4.8,7.1c-0.4,0.6-1.2,0.6-1.6,0.1l-5.7-6.6c-0.5-0.5-1.3-0.5-1.7,0.2l-6.1,10.7c0,0,0,0,0,0.1
+			l-7.8,16.4c0,0,0,0,0,0.1l-4,7.1c-0.4,0.7-1.3,0.7-1.8,0.1l-2.5-3.9c-0.5-0.8-1.7-0.5-1.9,0.3l-2.5,11.8c0,0.1,0,0.2-0.1,0.2
+			L95,150.2l-4.2,7.5c0,0.1-0.1,0.1-0.1,0.2l-2.4,7c-0.1,0.3-0.4,0.5-0.7,0.6l-2.3,0.7c-0.3,0.1-0.6,0.4-0.7,0.7l-1.6,5.3
+			c0,0,0,0,0,0.1l-2,5.4"/>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M173.3,138l-14.8-20.6c-0.1-0.1-0.1-0.2-0.2-0.3l-5.4-14.7h-16.2h-14.1H61.9l-4.8,6.9l-9.9,10.6l-7,19
+					H100h63.3h10.2v-0.3C173.5,138.4,173.5,138.2,173.3,138z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st6">
+
+					<image style="overflow:visible;" width="207" height="109" xlink:href="8A5D9DB3.png"  transform="matrix(1 0 0 1 3.0651 66.2715)">
+				</image>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st7" x1="20.9" y1="177.6" x2="214" y2="177.6"/>
+			<g>
+				<g>
+					<line class="st0" x1="20.9" y1="177.6" x2="20.9" y2="174"/>
+					<line class="st0" x1="125.1" y1="177.6" x2="125.1" y2="174"/>
+					<line class="st0" x1="229.4" y1="177.6" x2="229.4" y2="174"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 13.9743 181.294)" class="st8 st2 st3">0</text>
+				<text transform="matrix(1 0 0 1 3.0241 165.2667)"><tspan x="0" y="0" class="st8 st2 st3">1</tspan><tspan x="2.2" y="0" class="st8 st2 st3">.</tspan><tspan x="3.7" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.7644 149.2393)"><tspan x="0" y="0" class="st8 st2 st3">2</tspan><tspan x="3.5" y="0" class="st8 st2 st3">.</tspan><tspan x="5" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.7795 133.212)"><tspan x="0" y="0" class="st8 st2 st3">3</tspan><tspan x="3.4" y="0" class="st8 st2 st3">.</tspan><tspan x="4.9" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.7795 117.1847)"><tspan x="0" y="0" class="st8 st2 st3">4</tspan><tspan x="3.4" y="0" class="st8 st2 st3">.</tspan><tspan x="4.9" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.8171 101.1573)"><tspan x="0" y="0" class="st8 st2 st3">5</tspan><tspan x="3.4" y="0" class="st8 st2 st3">.</tspan><tspan x="4.9" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.802 85.13)"><tspan x="0" y="0" class="st8 st2 st3">6</tspan><tspan x="3.4" y="0" class="st8 st2 st3">.</tspan><tspan x="4.9" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 2.4992 69.1026)"><tspan x="0" y="0" class="st8 st2 st3">7</tspan><tspan x="2.7" y="0" class="st8 st2 st3">.</tspan><tspan x="4.2" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.7268 53.0753)"><tspan x="0" y="0" class="st8 st2 st3">8</tspan><tspan x="3.5" y="0" class="st8 st2 st3">.</tspan><tspan x="5" y="0" class="st8 st2 st3">000</tspan></text>
+				<text transform="matrix(1 0 0 1 1.7717 37.0479)"><tspan x="0" y="0" class="st8 st2 st3">9</tspan><tspan x="3.4" y="0" class="st8 st2 st3">.</tspan><tspan x="4.9" y="0" class="st8 st2 st3">000</tspan></text>
+			</g>
+			<line class="st0" x1="20.9" y1="177.6" x2="20.9" y2="33.4"/>
+			<g>
+				<g>
+					<line class="st7" x1="20.9" y1="177.6" x2="214" y2="177.6"/>
+					<line class="st9" x1="20.9" y1="161.6" x2="214.1" y2="161.6"/>
+					<line class="st9" x1="20.9" y1="145.6" x2="214.1" y2="145.6"/>
+					<line class="st9" x1="20.9" y1="129.5" x2="214.1" y2="129.5"/>
+					<line class="st9" x1="20.9" y1="113.5" x2="214" y2="113.5"/>
+					<line class="st9" x1="20.9" y1="97.5" x2="214.1" y2="97.5"/>
+					<line class="st9" x1="20.9" y1="81.5" x2="229.4" y2="81.5"/>
+					<line class="st9" x1="20.9" y1="65.4" x2="229.4" y2="65.4"/>
+					<line class="st9" x1="20.9" y1="49.4" x2="229.4" y2="49.4"/>
+					<line class="st9" x1="20.9" y1="33.4" x2="229.4" y2="33.4"/>
+				</g>
+				<g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<line class="st0" x1="177.3" y1="81.5" x2="73" y2="35.8"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<rect x="70" y="32.8" class="st0" width="6" height="6"/>
+					<rect x="174.3" y="78.5" class="st0" width="6" height="6"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="porcentajes">
+	<rect x="26.1" y="143" class="st0" width="14.4" height="5.8"/>
+	<text transform="matrix(1 0 0 1 26.1027 148.2592)" class="st10 st11 st3">13%</text>
+	<g>
+	</g>
+	<rect x="4.6" y="184.5" class="st0" width="26.7" height="7.4"/>
+	<text transform="matrix(1 0 0 1 14.4713 189.7392)" class="st1 st2 st3"> m</text>
+</g>
+<g id="Capa_4">
+	<g>
+		<rect x="54.1" y="16.6" class="st0" width="86.2" height="16.2"/>
+		<text transform="matrix(1 0 0 1 84.0692 22.575)"><tspan x="0" y="0" class="st1 st12 st13">8.849 m</tspan><tspan x="14.1" y="0" class="st1 st12 st13"></tspan><tspan x="2.6" y="9.3" class="st1 st2 st3">Everest</tspan><tspan x="21.3" y="9.3" class="st1 st2 st3"></tspan></text>
+	</g>
+</g>
+</svg>

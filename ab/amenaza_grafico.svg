@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 162.1 101.2" version="1.1" viewBox="0 0 162.1 101.2" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{font-family:'Roboto';}
+	.st2{font-size:7.3361px;}
+	.st3{fill:#EF781F;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'roboto';}
+	.st6{font-size:7.5px;}
+</style>
+				<text class="st0 st1 st2" transform="translate(27.537 99.382)">20</text>
+				<text class="st0 st1 st2" transform="translate(58.838 99.382)">40</text>
+				<text class="st0 st1 st2" transform="translate(90.139 99.382)">60</text>
+				<text class="st0 st1 st2" transform="translate(121.44 99.382)">80</text>
+				<text class="st0 st1 st2" transform="translate(150.86 99.382)">100</text>
+			<line class="st0" x2="156.5" y1="92.4" y2="92.4"/>
+					<line class="st0" y1="92.4" y2="90.1"/>
+					<line class="st0" x1="31.3" x2="31.3" y1="92.4" y2="90.1"/>
+					<line class="st0" x1="62.6" x2="62.6" y1="92.4" y2="90.1"/>
+					<line class="st0" x1="93.9" x2="93.9" y1="92.4" y2="90.1"/>
+					<line class="st0" x1="125.2" x2="125.2" y1="92.4" y2="90.1"/>
+					<line class="st0" x1="156.5" x2="156.5" y1="92.4" y2="90.1"/>
+			<line class="st0" y1="92.4"/>
+					<line class="st3" x2="3.9" y1="86.7" y2="86.7"/>
+					<line class="st3" x2="3.9" y1="75.1" y2="75.1"/>
+					<line class="st3" x2="3.9" y1="63.6" y2="63.6"/>
+					<line class="st3" x2="3.9" y1="52" y2="52"/>
+					<line class="st3" x2="3.9" y1="40.4" y2="40.4"/>
+					<line class="st3" x2="3.9" y1="28.9" y2="28.9"/>
+					<line class="st3" x2="3.9" y1="17.3" y2="17.3"/>
+					<line class="st3" x2="3.9" y1="5.8" y2="5.8"/>
+					<rect class="st3" y="1" width="137.7" height="9.6"/>
+					<rect class="st3" y="12.5" width="112.7" height="9.6"/>
+					<rect class="st3" y="24.1" width="84.5" height="9.6"/>
+					<rect class="st3" y="35.7" width="61" height="9.6"/>
+					<rect class="st3" y="47.2" width="42.3" height="9.6"/>
+					<rect class="st3" y="58.8" width="34.4" height="9.6"/>
+					<rect class="st3" y="70.3" width="26.6" height="9.6"/>
+					<rect class="st3" y="81.9" width="20.3" height="9.6"/>
+	<rect class="st0" x="122.3" y="2.8" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(122.25 8.074)">88%</text>
+	<rect class="st0" x="97.3" y="14.8" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(97.3 20.002)">72%</text>
+	<rect class="st0" x="70.2" y="26.2" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(70.156 31.427)">54%</text>
+	<rect class="st0" x="47.1" y="37.6" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(47.125 42.82)">39%</text>
+	<rect class="st0" x="28" y="49.3" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(28.016 54.518)">27%</text>
+	<rect class="st0" x="20.4" y="60.5" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(20.417 65.756)">22%</text>
+	<rect class="st0" x="12.2" y="72.3" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(12.223 77.502)">17%</text>
+	<rect class="st0" x="5.5" y="84.3" width="14.4" height="5.8"/>
+	<text class="st4 st5 st6" transform="translate(5.5366 89.531)">13%</text>
+</svg>
