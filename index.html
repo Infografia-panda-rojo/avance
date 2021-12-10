@@ -338,17 +338,17 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
         <!--Aquí comienza la diferencia entre subespecies. Quisiera fuese más chico el tamaño de imagen-->
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
             <h4 class="text-center pt-5 pb-2">Una casta singular</h4>
-                <!--Debo poner en itálica las subespecies-->
-            <p>Único en su especie, con solo dos subespecies supervivientes: <i>Ailurus fulgens styani</i> o <em>panda chino</em> que se
+                <p>Único en su especie, con solo dos subespecies supervivientes: <i>Ailurus fulgens styani</i> o <em>panda chino</em> que se
               caracteriza por tener un pelaje más rojizo que el <em>panda de Himalaya</em>,
               <i>Ailurus fulgens fulgens</i> el cual destaca por su pelaje más blanco</p>
-            <div id="image-compare" class="my-3">
-                          <!--el botón que dice Antes debe decir China-->
-                <img src="ab/panda_china.png" alt="Panda de Chino"/>
-                  <!--el botón que dice Después debe decir Himalaya, encontré lo siguiente, pero es de CSS y no sé como cambiarlo con bootstrap: .icv__label-before, .icv__label-after-->
-                <img src="ab/panda_himalaya.png" alt="Panda de Himalaya"/>
-            </div>
-                <!--Aquí comienzan las posturas típicas y la rutina. Faltan ilustraciones para completar-->
+            <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                        <h4 class="text-center pt-5 pb-2">Una casta singular</h4>
+                        <div id="image-compare" class="my-3">
+                            <img src="ab/panda_china.png" alt="Panda de China" />
+                            <img src="ab/panda_himalaya.png" alt="Panda de Himalaya" />
+                        </div>
+                    
+                   <!--Aquí comienzan las posturas típicas y la rutina. Faltan ilustraciones para completar-->
              <h4 class="text-center pt-5 pb-2">Posiciones destacadas</h4>
                 <div class="container g-0">
                      <div class="row g-0">
@@ -671,6 +671,23 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
             var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
                 return new bootstrap.Popover(popoverTriggerEl, { html: true });
             });
+        </script>
+                  <!--LO QUE SIGUE ES LA CONFIGURACIÓN DE LA COMPARACIÓN DE IMÁGENES-->
+        <script>
+            const element = document.querySelector("#image-compare");
+            const options = {
+                  controlColor: "#FFFFFF",
+                  controlShadow: true,
+                  addCircle: true,
+                  addCircleBlur: true,
+                  showLabels: true,
+                  labelOptions: {
+                    before: 'De China',
+                    after: 'De Himalaya',
+                    onHover: false
+                }
+            };
+            const viewer = new ImageCompare(element, options).mount();
         </script>
     </body>
 </html>
