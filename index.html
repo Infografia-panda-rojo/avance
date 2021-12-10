@@ -601,20 +601,7 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
                 </div>
             </div>
         </aside>
-
-        <!--ESTE ES EL PIE DE PÁGINA-->
-        <footer class="bg-dark text-white-50">
-            <div class="container">
-                <div class="row">
-                    <div class="col py-3">
-                        <p class="text-center small">
-                            Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" class="link-light">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!--EN EL SCRIPT QUE SIGUE AJUSTA EL SVG DEL ESTADO DE CONSERVACIÓN AL ANCHO DE LA VENTANA-->
+       <!--EN EL SCRIPT QUE SIGUE AJUSTA EL SVG DEL ESTADO DE CONSERVACIÓN AL ANCHO DE LA VENTANA-->
         <script>
             window.addEventListener("DOMContentLoaded", elAjuste);
             window.addEventListener("resize", elAjuste);
@@ -643,6 +630,23 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
                     canto.pause();
                 }
             });
+        </script>
+           <!--LO QUE SIGUE ES LA CONFIGURACIÓN DE LA COMPARACIÓN DE IMÁGENES-->
+        <script>
+            const element = document.querySelector("#image-compare");
+            const options = {
+                  controlColor: "#FFFFFF",
+                  controlShadow: true,
+                  addCircle: true,
+                  addCircleBlur: true,
+                  showLabels: true,
+                  labelOptions: {
+                    before: 'Panda de China',
+                    after: 'Panda de Himalaya',
+                    onHover: false
+                }
+            };
+            const viewer = new ImageCompare(element, options).mount();
         </script>
         <!--CON EL SIGUIENTE SCRIPT CAMBIO LOS OJOS DE NOCHE A DÍA-->
         <script>
@@ -677,8 +681,7 @@ ancho de la ventana y se me desajusta al quitar el mapa -->
             };
             const viewer = new ImageCompare(element, options).mount();
         </script>
-      
-                   <!--CON ESTE CÓDIGO DE ACTIVA EL POPOVER SOBRE SU NOMBRE-->
+           <!--CON ESTE CÓDIGO DE ACTIVA EL POPOVER SOBRE SU NOMBRE-->
         <script>
             var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'));
             var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
