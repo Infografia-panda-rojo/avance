@@ -15,7 +15,17 @@
                 --bs-body-font-family: "Roboto", sans-serif;
                 --bs-primary: #f70;
             }
-
+            
+            a {
+                color: #222; /*colores simplificados #222222 otra forma de escribir los colores rgb(255,255,255) o rgba (255,255,255,0.5) donde a es alpha, simil a la opacidad que va desde 0 a 1*/
+                text-decoration: underline;
+                transition: color ease 0.5s;
+            }
+            a:hover {
+                color: var(--bs-primary);
+                text-decoration: none;
+                transition: color ease 0.5s;
+            }
             /* vamos a ajustar los pesos de algunos títulos a lo que dispone la fuente  */
 
             h1,
@@ -78,16 +88,6 @@
 
             span[data-bs-toggle="popover"] {
                 cursor: pointer;
-            }
-
-            a {
-                color: black;
-                text-decoration: none;
-            }
-
-            a:hover {
-                color: var(--bs-primary);
-                text-decoration: underline;
             }
         </style>
 
